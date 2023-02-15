@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PicturesViewer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="compartir">Compartir</string>
+
+    <string name="play1">M 8 5.14 L 8 19.14 L 11.456 16.661 L 11.456 7.339 Z</string>
+    <string name="pause1">M 6 5 L 6 19 L 10 19 L 10 5 Z</string>
+    <string name="play2">M 11.245 16.795 L 19 12.14 L 19 12.14 L 11.245 7.205 Z</string>
+    <string name="pause2">M 14 19 L 18 19 L 18 5 L 14 5 Z</string>
+
+</resources>
